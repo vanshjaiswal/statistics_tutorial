@@ -84,6 +84,4 @@ Thanks to all the resources and references that helped in creating these notes.
 ---
 
 Happy studying and analyzing data!
-```
 
-This `README.md` file provides an organized overview of the topics covered in your notes and includes sections that are typical for open-source repositories, such as contributing guidelines and license information.
