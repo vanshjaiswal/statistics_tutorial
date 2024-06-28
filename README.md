@@ -4,6 +4,8 @@ Welcome to the repository containing my comprehensive statistics notes from a da
 
 Hi My name is Vansh Jaiswal and I am a data scientist and AI Engineer. I am a DATA GUY !
 
+Stats Workbook.xlsx contains the sample problems and formulas.
+
 ## Table of Contents
 
 1. [Types of Data](#types-of-data)
